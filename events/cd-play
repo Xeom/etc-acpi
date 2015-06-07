@@ -1,2 +1,2 @@
 event=cd/play
-action=/etc/acpi/powerconservative-enable.sh
+action=/etc/acpi/cpupower.sh conservative

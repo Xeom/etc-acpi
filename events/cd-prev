@@ -1,2 +1,2 @@
 event=cd/prev
-action=/etc/acpi/powersave-enable.sh
+action=/etc/acpi/cpupower.sh min

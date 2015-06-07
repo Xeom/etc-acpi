@@ -1,2 +1,2 @@
 event=cd/next
-action=/etc/acpi/FULLpower-enable.sh
+action=/etc/acpi/cpupower.sh max
